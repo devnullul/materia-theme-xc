@@ -1,3 +1,7 @@
+#### Please support the regular release from nana-4! https://github.com/nana-4/materia-theme
+
+This is a "fork" of sorts, of the Materia theme, that basically shrinks non-csd windows' titlebars.
+
 # Materia
 
 ![widget-factory](../images/widget-factory.png?raw=true)
