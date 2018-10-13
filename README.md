@@ -34,31 +34,6 @@ Various **desktop environments** are supported:
 
 ## Installation
 
-### Packages
-
-| Distro | Maintainer | Install Command |
-| :-- | :-- | :-- |
-| Arch Linux <sup>[[Official][Arch]]</sup> | @ArchangeGabriel | `sudo pacman -S materia-gtk-theme` |
-| Debian 10 / sid <sup>[[Official][Debian]]</sup> <br> Ubuntu 18.04+ | @isaagar | `sudo apt install materia-gtk-theme` |
-| Ubuntu 16.04 / 17.10 <sup>[[PPA][PPA]]</sup> | @igor-dyatlov | `sudo add-apt-repository ppa:dyatlov-igor/materia-theme` <br> `sudo apt update` <br> `sudo apt install materia-gtk-theme` |
-| Fedora <sup>[[Copr][Copr]]</sup> | @LaurentTreguier | `sudo dnf copr enable tcg/themes` <br> `sudo dnf install materia-theme` |
-
-[Arch]: https://www.archlinux.org/packages/community/any/materia-gtk-theme
-[Debian]: https://packages.debian.org/unstable/materia-gtk-theme
-[PPA]: https://launchpad.net/~dyatlov-igor/+archive/ubuntu/materia-theme
-[Copr]: https://copr.fedorainfracloud.org/coprs/tcg/themes
-
-#### Flatpak
-
-3 variants (Materia, Materia-dark, Materia-light) are available via Flathub:
-
-```
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-flatpak install flathub org.gtk.Gtk3theme.Materia
-flatpak install flathub org.gtk.Gtk3theme.Materia-dark
-flatpak install flathub org.gtk.Gtk3theme.Materia-light
-```
-
 ### Manual Installation
 
 Run the following commands in the terminal:
