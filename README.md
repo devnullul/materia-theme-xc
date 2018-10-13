@@ -4,8 +4,6 @@ This is a "fork" of sorts, of the Materia theme, that basically shrinks non-csd 
 
 # Materia
 
-![widget-factory](../images/widget-factory.png?raw=true)
-
 Materia (formerly Flat-Plat) is a [Material Design](https://material.io) theme for GNOME/GTK+ based desktop environments.  
 It supports GTK+ 3, GTK+ 2, GNOME Shell, Budgie, Cinnamon, MATE, Unity, LightDM, GDM, Chrome theme, etc.
 
@@ -13,24 +11,7 @@ Also Materia has compatibility with [oomox theme designer](https://github.com/th
 
 ## Features
 
-**Ripple effect** animations for GTK+ 3 are supported:
-
-![Button](../images/Button.gif?raw=true)
-
-**3 color variants** and **2 size variants** are available:
-
-| **Materia** | **standard** | **compact** |
-| :-: | :-: | :-: |
-| **standard** | ![Materia][1] | ![Materia-compact][2] |
-| **dark** | ![Materia-dark][3] | ![Materia-dark-compact][4] |
-| **light** | ![Materia-light][5] | ![Materia-light-compact][6] |
-
-[1]: ../images/Materia.png?raw=true
-[2]: ../images/Materia-compact.png?raw=true
-[3]: ../images/Materia-dark.png?raw=true
-[4]: ../images/Materia-dark-compact.png?raw=true
-[5]: ../images/Materia-light.png?raw=true
-[6]: ../images/Materia-light-compact.png?raw=true
+**Ripple effect** animations for GTK+ 3 are supported
 
 Various **desktop environments** are supported:
 
